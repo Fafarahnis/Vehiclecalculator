@@ -63,7 +63,7 @@
         android:layout_height="wrap_content"
         android:autoLink="web"
         android:linksClickable="true"
-        android:text="https://github.com/Fafarahnis/assignment1/tree/441cf12385955c0b48df8956afc5bfedf22a0a28"
+        android:text="https://github.com/Fafarahnis/Vehiclecalculator.git"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
